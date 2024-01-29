@@ -26,7 +26,7 @@
   
 - 💻I'm actively looking for coop in Data and Software engineering
   
-- 💪🏻My goal of 2023 is to solve 100 leetcode problems
+- 💪🏻My goal of 2024 is to solve 100 leetcode problems
   
 - 📩 You can reach me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hazel-phyu-68a644267)
 
