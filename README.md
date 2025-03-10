@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About Me :
 
-- 📊I'm a third year Data Science Student
+- 📊I'm a final year Data Science Student
   
 - 💻I'm actively looking for coop in Data and Software engineering
   
