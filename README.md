@@ -28,7 +28,7 @@
   
 - 💪🏻My goal of 2024 is to solve 100 leetcode problems
   
-- 📩 You can reach me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hazel-phyu-68a644267)
+- 📩 You can reach me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazel-phyu/)
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
